@@ -1,0 +1,2 @@
+# Parkinsons-Disease-Detection-using-Inception-and-Xception-with-Attention-Mechanism.ipynb
+The project uses InceptionV3 and Xception models with attention mechanisms to detect Parkinson’s disease from spiral drawings. Images are labeled as "healthy" or "parkinson," preprocessed, and split for training with early stopping. High validation accuracy and strong classification metrics validate model effectiveness.
